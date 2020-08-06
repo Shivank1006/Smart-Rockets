@@ -17,7 +17,7 @@ A crossover point is chosen in DNA of the child and it contains the DNA of first
 
 After a child is produced by crossover we mutate some of the genes in the DNA. There is a very slight probability for a gene to mutate. Mutations are important to maintain diversity in a populationand to prevent the premature convergence.
 
-This cycle of selection, crossover and mutation goes on and after some time a convergence in the maximum fitness of the population is achieved beyond which the fitness cannot increase. Then the offsprings produced are not significantly differents from the previous generation. We then say that a set of solution to our problem is achieved by the genetic algorithm.
+This cycle of selection, crossover and mutation goes on and after some time a convergence in the maximum fitness of the population is achieved beyond which the fitness cannot increase. Then the offsprings produced are not significantly different from the previous generation. We then say that a set of solution to our problem is achieved by the genetic algorithm.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
