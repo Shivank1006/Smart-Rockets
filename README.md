@@ -5,13 +5,13 @@ A genetic algorithm (GA) is a metaheuristic inspired by the process of natural s
 
 It is inspired by Charles Darwin's theory of Natural Selection.
 
-<h2 align="center">Survival Of The Fittest.</h2>
+<p align="center"><b><i>Survival Of The Fittest.</i></b></p>
 
 
 ## How does it work ?
 Here a population of rockets attempt to find a way to the target without crashing. We initially start with a population of rockets that have a DNA with random genes. After the life span of this population we use a fitness function to decide the fitness of each rocket. We then select two rockets as parents based on their fitness score for reproduction.
 
-<img src="rockets.png" align="center">
+<p align="center"><img src="rockets.png" width=100></p>
 
 A crossover point is chosen in DNA of the child and it contains the DNA of first parent before the crossover point and DNA of second parent after crossover point.
 
